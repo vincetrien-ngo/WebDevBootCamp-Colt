@@ -1,0 +1,39 @@
+
+body {
+	border: 20px solid #8585ad;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+}
+
+h1 {
+	font-size: 10px;
+	color: blue;
+	font-family: Raleway;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+h2 {
+	font-family: Poppins;
+	font-size: 2.0rem
+}
+
+p {
+	color: #003366;
+	font-family: Roboto Slab;
+}
+
+hr {
+	margin: auto;
+}
+
+.post {
+	margin-bottom: 20px;
+}
+
+.paraLine {
+	border-left: 10px solid #8585ad;
+	padding: 10px;
+}
